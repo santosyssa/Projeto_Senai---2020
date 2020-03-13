@@ -1,0 +1,26 @@
+								**** Masang ****
+
+- O que o cliente deseja;
+
+- Necessidades;
+
+- Refatoração;
+
+- Planejar;
+
+- Funcionalidade;
+
+- Negócio;
+
+- Protipação;
+
+- Diagrama de casos de uso;
+
+- Diagrama de classes;
+
+- Documentação.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Possuem parcerias?
